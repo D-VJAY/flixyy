@@ -12,8 +12,10 @@ theme: jekyll-theme-minimal  # Change this to the desired theme or remove for no
 
 # Sass/SCSS configuration
 sass:
+  source: _src
   sass_dir: assets/css
   style: :compressed
+
 
 # Exclude from processing
 exclude:
