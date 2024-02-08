@@ -1,5 +1,6 @@
 # _config.yml
 
+
 # Site settings
 title: Your Jekyll Site
 description: A brief description of your site
@@ -7,6 +8,12 @@ description: A brief description of your site
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal  # Change this to the desired theme or remove for no theme
+
+
+# Sass/SCSS configuration
+sass:
+  sass_dir: assets/css
+  style: :compressed
 
 # Exclude from processing
 exclude:

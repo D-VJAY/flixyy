@@ -33,11 +33,10 @@
     border: 1px;
     height: 25px;
     border-radius: 6px;
-}
-
-.playbutton:hover{
+&:hover{
     background-color: black;
     border:1px solid white;
     cursor: pointer;
+}
 }
 

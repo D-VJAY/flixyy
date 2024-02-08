@@ -45,6 +45,12 @@
   "react-simple-image-slider": "^2.4.1",
   
     
+  "sass": "^1.70.0",
+  
+    
+  "scss": "^0.2.4",
+  
+    
   "uuid": "^9.0.1",
   
     
@@ -91,21 +97,34 @@
     
   "production": [
   
+    
+    
   ">0.2%",
   
+    
+    
   "not dead",
   
+    
+    
   "not op_mini all"
   
+    
   ],
   
     
   "development": [
   
+    
+    
   "last 1 chrome version",
   
+    
+    
   "last 1 firefox version",
   
+    
+    
   "last 1 safari version"
   
     
@@ -113,9 +132,12 @@
   
   },
   
-  "devDependencies": { 
+  "devDependencies": {
+  
     
   "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+  
+    
   "nodemon": "^3.0.1"
   
   },

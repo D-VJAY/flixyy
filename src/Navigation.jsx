@@ -1,5 +1,5 @@
 import React from 'react';
-import '../src/style.css/Navigation.css';
+import './assets/css/style.scss/Navigation.scss'
 import { NavLink } from 'react-router-dom';
 import logo from './images/logo-removebg-preview.png'
 
