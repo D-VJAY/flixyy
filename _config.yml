@@ -1,4 +1,10 @@
 
+# Set the source directory for Jekyll (where your Jekyll site's source files are located)
+source: src
+
+# Set the destination directory for Jekyll (where Jekyll will output the built site)
+destination: public
+
 
 # Site settings
 title: Your Jekyll Site
@@ -28,9 +34,9 @@ exclude:
   - _site
 
 # Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+# plugins:
+#   - jekyll-feed
+#   - jekyll-seo-tag
 
 # GitHub Metadata for GitHub Pages
 github:
@@ -40,12 +46,6 @@ github:
 permalink: /:title/
 
 # Any other custom configurations specific to your project
-
-# Set the source directory for Jekyll (where your Jekyll site's source files are located)
-source: src
-
-# Set the destination directory for Jekyll (where Jekyll will output the built site)
-destination: public
 
 # Exclude files or directories that should not be processed by Jekyll
 exclude:
