@@ -1,7 +1,7 @@
 import React from 'react'
-import './assets/css/style.scss/Maintop.scss'
+import '../assets/css/style.scss/Maintop.scss'
 import Searchbar from './Searchbar'
- import Background from '../src/images/bg_1.png'
+ import Background from '../images/bg_1.png'
 
 export default function Maintop() {
    

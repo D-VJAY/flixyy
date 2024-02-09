@@ -1,5 +1,5 @@
  import React from "react";
- import'./assets/css/style.scss/Watchlater.scss'
+ import'../assets/css/style.scss/Watchlater.scss'
  import Moviebox from "./Moviebox";
   
    import Playbutton from "./Playbutton";

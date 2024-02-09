@@ -1,11 +1,11 @@
 import React from 'react'
 import { BrowserRouter ,Routes,Route } from 'react-router-dom';
-import Navigation from './Navigation';
-import Home from './Home';
-import Watchlater from './Watchlater';
-import Trending from './Trending'
-import Videoplayer from './Videoplayer';
-// import Playbutton from './Playbutton';
+import Navigation from '../src/components/Navigation';
+import Home from '../src/components/Home';
+import Watchlater from '../src/components/Watchlater';
+import Trending from '../src/components/Trending'
+import Videoplayer from '../src/components/Videoplayer';
+
 function App  ()  {
   return (
     <div>

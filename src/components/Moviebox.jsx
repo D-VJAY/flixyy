@@ -1,5 +1,5 @@
 import React from "react";
-import './assets/css/style.scss/Moviebox.scss'
+import '../assets/css/style.scss/Moviebox.scss'
 
 const Moviebox = ({image,title}) => {
 

@@ -1,7 +1,7 @@
 import React from 'react';
-import './assets/css/style.scss/Navigation.scss'
+import '../assets/css/style.scss/Navigation.scss'
 import { NavLink } from 'react-router-dom';
-import logo from './images/logo-removebg-preview.png'
+import logo from '../images/logo-removebg-preview.png'
 
 
 function Navigation() {
