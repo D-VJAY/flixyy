@@ -12,7 +12,7 @@ theme: '' # Change this to the desired theme or remove for no theme
 # Sass/SCSS configuration
 sass:
   source: src
-  sass_dir: assets/css
+  sass_dir: assets/css/style.scss
   style: :compressed
 
 
