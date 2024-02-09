@@ -1,6 +1,6 @@
 import React from "react";
 import { useState } from "react";
-import '../assets/css/style.scss/Searchbar.scss'
+import '../assets/css/style.css/Searchbar.css'
 import SearchButton from "./searchButton";
 const Searchbar = () => {
   const [input, SetInput] = useState("");

@@ -1,6 +1,6 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
-import '../assets/css/style.scss/Playbutton.scss'
+import '../assets/css/style.css/Playbutton.css'
 export let videop;
 const Playbutton = (props) => {
 

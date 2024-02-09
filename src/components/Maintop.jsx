@@ -1,5 +1,5 @@
 import React from 'react'
-import '../assets/css/style.scss/Maintop.scss'
+import '../assets/css/style.css/Maintop.css'
 import Searchbar from './Searchbar'
  import Background from '../images/bg_1.png'
 

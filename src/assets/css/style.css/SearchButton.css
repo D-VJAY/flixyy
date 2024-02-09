@@ -19,11 +19,11 @@ text-decoration: none;
     color: white;
     background-color: black;
     z-index: 50;
-    /* position: fixed; */
+   
+}
 
-
-&:hover{
+.search:hover{
     background-color: aliceblue;
     color: black
-}
+
 }
