@@ -12,7 +12,8 @@ description: A brief description of your site
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal # Change this to the desired theme or remove for no theme
+theme: jekyll-theme-minimal
+ # Change this to the desired theme or remove for no theme
 
 
 # Sass/SCSS configuration
