@@ -11,7 +11,7 @@ theme: '' # Change this to the desired theme or remove for no theme
 
 # Sass/SCSS configuration
 sass:
-  source: _src
+  source: src
   sass_dir: assets/css
   style: :compressed
 
