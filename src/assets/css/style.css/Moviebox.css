@@ -36,7 +36,7 @@
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
-@media (max-width: 780px) {
+@media(max-width: 780px){
   .Moviebox {
     display: block;
     width: 40vw;
@@ -65,7 +65,7 @@
   }
 }
 
-@media (max-width: 480px) {
+@media(max-width: 480px){
   .Moviebox {
     width: 80vw;
     height: 40vh;

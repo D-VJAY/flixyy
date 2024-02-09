@@ -4,7 +4,6 @@
 }
 
 .playpage{
-    /* background-color: blue; */
     display: flex;
     margin-left: 20px;
      border: 1px solid black; 
@@ -23,6 +22,7 @@
 .navlink{
     text-decoration: none;
 }
+
 .playbutton{
     text-decoration: none;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -34,6 +34,7 @@
     height: 25px;
     border-radius: 6px;
 }
+
 .playbutton:hover{
     background-color: black;
     border:1px solid white;

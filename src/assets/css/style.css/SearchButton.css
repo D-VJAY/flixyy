@@ -1,29 +1,27 @@
-.navlink{
-text-decoration: none;
+.navlink {
+  text-decoration: none;
 }
 
-.linky{
-    text-decoration: none;
-    list-style: none;
+.linky {
+  text-decoration: none;
+  list-style: none;
 }
 
-.search{
-    width: 55px;
-    text-decoration: none;
-    cursor: pointer;
-    height: 5vh;
-    border: 1px solid black;
-    padding-top: 1vh;
-    padding-bottom: 1vh;
-    border-radius: 50pc;
-    color: white;
-    background-color: black;
-    z-index: 50;
-   
+.search {
+  width: 55px;
+  text-decoration: none;
+  cursor: pointer;
+  height: 5vh;
+  border: 1px solid black;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  border-radius: 50pc;
+  color: white;
+  background-color: black;
+  z-index: 50;
 }
 
-.search:hover{
-    background-color: aliceblue;
-    color: black
-
+.search:hover {
+  background-color: aliceblue;
+  color: black;
 }
