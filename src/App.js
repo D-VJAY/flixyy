@@ -13,7 +13,7 @@ function App  ()  {
       <Navigation/>
       
         <Routes>
-            <Route path="/Flixy" element={<Home/>}/>
+            <Route path="/" element={<Home/>}/>
             <Route path="/watchlater" element={<Watchlater/>}/>
             <Route path="/trending" element={<Trending/>}/>
             <Route path="/playit" element={<Videoplayer/>}/>

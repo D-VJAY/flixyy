@@ -30,7 +30,7 @@
   width: 200px;
 }
 
-@media(max-width: 780px){
+@media(max-width: 780px) {
   .grid-container {
     display: grid;
     grid-template-columns: 45vw 45vw;
@@ -40,7 +40,7 @@
   }
 }
 
-@media(max-width: 480px){
+@media(max-width: 480px) {
   .grid-container {
     display: grid;
     grid-template-columns: 80vw;
